@@ -29,7 +29,7 @@ The F1 series of games support the output of certain game data across UDP connec
 
 The following information summarise these data structures so that developers of supporting hardware or software can configure these to work correctly with the F1 game. 
 
-> Note: To ensure that you are using the latest specification for this game, please check the official forum page [here](https://answers.ea.com/t5/General-Discussion/F1-24-UDP-Specification/td-p/13745220). 
+> Note: To ensure that you are using the latest specification for this game, please check the official forum page [here](https://forums.ea.com/blog/f1-games-game-info-hub-en/ea-sports™-f1®25-udp-specification/12187347). 
  
 ## Packet Information
 
@@ -97,6 +97,7 @@ The packets IDs are as follows:
 |Tyre Sets|12|Extended tyre set data|
 |Motion Ex|13|Extended motion data for player car|
 |Time Trial|14|Time Trial Specific Data|
+|Lap Positions|15|Lap positions on each lap so a chart can be constructed|
 
 ## **Motion Packet**
 
