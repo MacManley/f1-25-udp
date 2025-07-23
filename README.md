@@ -18,7 +18,7 @@ void setup()
 void loop()
 {
     parser = new F1_25_Parser();
-    parser->push(*buffer);
+    parser->read()
 }
 
 ```
