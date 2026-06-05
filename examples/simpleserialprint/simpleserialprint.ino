@@ -10,9 +10,6 @@ const char *Password = "Your WiFi Password";
 const int localPort = 20777;
 
 void startWiFi();
- 
-//The IP address that this ESP32 / ESP8266 has requested to be assigned to.
-IPAddress ip();
 
 F1_25_Parser* parser;
 
