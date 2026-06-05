@@ -18,7 +18,6 @@
 #include "PacketMotionEX.h"
 #include "PacketTyreSetData.h"
 #include "PacketTimeTrialData.h"
-#include "PacketTimeTrialData.h"
 #include "PacketLapPositions.h"
 
 unsigned int localPort;
