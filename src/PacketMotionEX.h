@@ -32,7 +32,7 @@ struct MotionEXData {
     float m_rearAeroHeight;
     float m_frontRollAngle;
     float m_rearRollAngle;
-    float chassisYaw;
+    float m_chassisYaw;
     float m_chassisPitch;
     float m_wheelCamber[4];
     float m_wheelCamberGain[4];
