@@ -1,7 +1,7 @@
 # F1 25 UDP | Library for use on ESP 32 / ESP8266 devices
 **Data Output from F1® 25 Game**
 
-> Note from developer: I do not have F1 25 and therefore am unable to test the library, it is based on [f1-23-udp](https://github.com/MacManley/f1-23-udp) with the updated UDP documentation. Please create an issue if it does not work and I will fix it ASAP.
+> Note from developer: This UDP parser works for the 2025 Packet Version, you can find the 26 Season Pack specification [here](https://github.com/MacManley/f1-26-udp)
 
 This program captures and parses packets that are sent by the F1 25 game. This library is written specifically for usage on the ESP32 and ESP8266.
 
